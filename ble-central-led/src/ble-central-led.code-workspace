@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "ble-peripheral-led",
+			"path": "../../ble-peripheral-led"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"gatt.h": "c",
+			"printk.h": "c",
+			"uuid.h": "c",
+			"bluetooth.h": "c"
+		}
+	}
+}

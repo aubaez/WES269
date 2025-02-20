@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../ble-peripheral-led"
+		},
+		{
+			"name": "ble-central-led",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
